@@ -1,0 +1,30 @@
+C:\Users\VirtualUmi\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\VirtualUmi\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\VirtualUmi\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\VirtualUmi\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\VirtualUmi\source\repos\CalculatorApp\CalculatorApp\obj\Debug\MainWindow.g.cs
+C:\Users\VirtualUmi\source\repos\CalculatorApp\CalculatorApp\obj\Debug\App.g.cs
+C:\Users\VirtualUmi\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp_MarkupCompile.cache
+C:\Users\VirtualUmi\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp_MarkupCompile.lref
+C:\Users\VirtualUmi\source\repos\CalculatorApp\CalculatorApp\obj\Debug\MainWindow.baml
+C:\Users\VirtualUmi\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.g.resources
+C:\Users\VirtualUmi\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\VirtualUmi\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\VirtualUmi\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\VirtualUmi\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\VirtualUmi\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
+C:\Users\Лейла\Downloads\Telegram Desktop\CalculatorApp (2)\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+C:\Users\Лейла\Downloads\Telegram Desktop\CalculatorApp (2)\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+C:\Users\Лейла\Downloads\Telegram Desktop\CalculatorApp (2)\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+C:\Users\Лейла\Downloads\Telegram Desktop\CalculatorApp (2)\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\Лейла\Downloads\Telegram Desktop\CalculatorApp (2)\CalculatorApp\CalculatorApp\obj\Debug\MainWindow.g.cs
+C:\Users\Лейла\Downloads\Telegram Desktop\CalculatorApp (2)\CalculatorApp\CalculatorApp\obj\Debug\App.g.cs
+C:\Users\Лейла\Downloads\Telegram Desktop\CalculatorApp (2)\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp_MarkupCompile.cache
+C:\Users\Лейла\Downloads\Telegram Desktop\CalculatorApp (2)\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp_MarkupCompile.lref
+C:\Users\Лейла\Downloads\Telegram Desktop\CalculatorApp (2)\CalculatorApp\CalculatorApp\obj\Debug\MainWindow.baml
+C:\Users\Лейла\Downloads\Telegram Desktop\CalculatorApp (2)\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.g.resources
+C:\Users\Лейла\Downloads\Telegram Desktop\CalculatorApp (2)\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.Properties.Resources.resources
+C:\Users\Лейла\Downloads\Telegram Desktop\CalculatorApp (2)\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Лейла\Downloads\Telegram Desktop\CalculatorApp (2)\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Лейла\Downloads\Telegram Desktop\CalculatorApp (2)\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+C:\Users\Лейла\Downloads\Telegram Desktop\CalculatorApp (2)\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
