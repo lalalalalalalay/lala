@@ -10,11 +10,10 @@ X = iris.data
 # Метод локтя для определения оптимального k
 inertias = []
 for k in range(1, 11):
-    kmeans = KMeans(n_clusters=k, random_state=42, n_init='auto')  # Добавлено n_init
+    kmeans = KMeans(n_clusters=k, random_state=42, n_init='auto')  
     kmeans.fit(X)
     inertias.append(kmeans.inertia_)
 
-# Визуализация
 plt.figure()
 plt.plot(range(1, 11), inertias, marker='o')
 plt.xlabel('Количество кластеров')
@@ -38,7 +37,7 @@ class MyKMeans:
 
         for iter in range(self.max_iter):
             # Вычисление расстояний и назначение меток
-            distances = np.sqrt(((X - self.centroids[:, np.newaxis]) ** 2).sum(axis=2)) # Исправлена скобка
+            distances = np.sqrt(((X - self.centroids[:, np.newaxis]) ** 2).sum(axis=2)) 
             self.labels = np.argmin(distances, axis=0)
 
             old_centroids = self.centroids.copy()
@@ -50,14 +49,14 @@ class MyKMeans:
                 if len(cluster_points) > 0:
                     new_centroid = cluster_points.mean(axis=0)
                 else:
-                    new_centroid = old_centroids[i]  # Use the old centroid
+                    new_centroid = old_centroids[i]  
                 new_centroids.append(new_centroid)
 
             self.centroids = np.array(new_centroids)
 
             # Визуализация (используем первые два признака)
             plt.figure(figsize=(6, 4))
-            plt.scatter(X[:, 0], X[:, 1], c=self.labels, cmap='viridis') # Удалена обводка
+            plt.scatter(X[:, 0], X[:, 1], c=self.labels, cmap='viridis') 
             plt.scatter(self.centroids[:, 0], self.centroids[:, 1], c='red', marker='*', s=300)
             plt.xlabel(iris.feature_names[0])
             plt.ylabel(iris.feature_names[1])
@@ -79,7 +78,7 @@ feature_pairs = [(0, 1), (0, 2), (0, 3), (1, 2), (1, 3), (2, 3)]
 plt.figure(figsize=(15, 10))
 for i, (f1, f2) in enumerate(feature_pairs, 1):
     plt.subplot(2, 3, i)
-    plt.scatter(X[:, f1], X[:, f2], c=kmeans_custom.labels, cmap='viridis') # Удалена обводка
+    plt.scatter(X[:, f1], X[:, f2], c=kmeans_custom.labels, cmap='viridis') 
     plt.scatter(kmeans_custom.centroids[:, f1], kmeans_custom.centroids[:, f2],
                 c='red', marker='*', s=200, label='Центроиды')
     plt.xlabel(feature_names[f1])
