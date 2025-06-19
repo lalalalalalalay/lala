@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Npgsql.RawPostgis</name>
+    </assembly>
+    <members>
+        <member name="T:Npgsql.NpgsqlRawPostgisExtensions">
+            <summary>
+            Extension adding the legacy PostGIS types to an Npgsql type mapper.
+            </summary>
+        </member>
+        <member name="M:Npgsql.NpgsqlRawPostgisExtensions.UseRawPostgis(Npgsql.TypeMapping.INpgsqlTypeMapper)">
+            <summary>
+            Sets up the legacy PostGIS types to an Npgsql type mapper.
+            </summary>
+            <param name="mapper">The type mapper to set up (global or connection-specific)</param>
+        </member>
+    </members>
+</doc>
